@@ -1,3 +1,6 @@
+Pie uses click library written by Armin Ronacher. This is limited to code in
+the inlinkblocks.py and pie.py modules:
+
 Copyright (c) 2014, Yun Tse, Yang
 All rights reserved.
 
