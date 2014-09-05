@@ -1,7 +1,9 @@
+#!/usr/bin/env python
+
 import click
 import glob
 import os.path
-import inlineblocks
+from pypie import inlineblocks
 
 @click.command()
 @click.option('--debug', '-d', is_flag=True, help='Debug mode')
