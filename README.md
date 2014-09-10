@@ -3,6 +3,14 @@
 A small tool for eliminating copy-n-paste the same paragraph everywhere in a
 docuement, suitable for reference manual writing.
 
+# Installation
+
+```shell
+python setup.py sdist
+cd dist
+pip install pypie-0.1.0.tar.gz
+```
+
 # Example
 
 Original self-referenced document, `input.md`.
