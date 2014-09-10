@@ -27,7 +27,7 @@ Some text ...
 
 Then execute
 ```shell
-$ python pie.py *.md output/
+pie.py *.md output/
 ```
 
 Now you have a resolved document `output/input.md` of following content.
